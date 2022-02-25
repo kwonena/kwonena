@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KwonEna&fontSize=70&animation=twinkling)
 
-<h2 align="center">👋Hi there👋</h2><br>
+<div align="center">
+<h2>👋Hi there👋</h2><br>
 
 <!--
 **kwonena/kwonena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonena&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonena&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
