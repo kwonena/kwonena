@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffca26?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-ffca26?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-08D5FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-ff7f55?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-209cd8?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <br>
+  <img src="https://img.shields.io/badge/PostCSS-dd3a0a?style=flat-square&logo=PostCSS&logoColor=white"/></a>&nbsp
+<br>
   <img src="https://img.shields.io/badge/Netlify-20B2AA?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JQuery-9999FF?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="center"> Techs that I learning with interest </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ff3426?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-ffca26?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p><br>
 
