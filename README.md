@@ -46,8 +46,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p><br>
 
+<p align="center">
 <h3 align="center">✨ Contact Me ✨</h3>
 <a href="mailto: eeena214@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+<a href="https://github.com/kwonena"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+<a href="https://www.instagram.com/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+</p><br>
 
 <h3 align="center">💡 GitHub Stats 💡</h3>
 
