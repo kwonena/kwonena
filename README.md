@@ -38,15 +38,6 @@ Here are some ideas to get you started:
 </p><br>
 
 
-<h3 align="center">✏ Be learning ✏</h3>
-
-<p align="center"> Techs that I learning with interest </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p><br>
-
 <p align="center">
 <h3 align="center">✨ Contact Me ✨</h3>
 <a href="mailto: eeena214@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
